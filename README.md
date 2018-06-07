@@ -11,5 +11,5 @@
 9. Star Wars: The Phantom Menace
 
 ## Discussion
-[New Hope vs. Empire]()
+[New Hope vs. Empire](new_hope_vs_empire.md)
 
