@@ -10,5 +10,6 @@
 8. Star Wars: The Last Jedi
 9. Star Wars: The Phantom Menace
 
-[Link](url) and ![Image](src)
+## Discussion
+[New Hope vs. Empire]()
 
