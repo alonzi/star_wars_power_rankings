@@ -7,8 +7,8 @@
 4. Star Wars: Return of the Jedi
 5. Star Wars: Revenge of the Sith (as released in the theatre)
 6. Solo: A Star Wars Story
-7. Star Wars: Attack of the Clones
-8. Star Wars: The Force Awakens
+7. Star Wars: The Force Awakens
+8. Star Wars: Attack of the Clones
 9. Star Wars: The Last Jedi
 10. Star Wars: The Phantom Menace
 
