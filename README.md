@@ -6,9 +6,10 @@
 4. Star Wars: Return of the Jedi
 5. Star Wars: Revenge of the Sith (with H. Christiensen on mute)
 6. Solo: A Star Wars Story
-7. Star Wars: The Force Awakens
-8. Star Wars: The Last Jedi
-9. Star Wars: The Phantom Menace
+7. Star Wars: Attack of the Clones
+8. Star Wars: The Force Awakens
+9. Star Wars: The Last Jedi
+10. Star Wars: The Phantom Menace
 
 ## Discussion
 [New Hope vs. Empire](new_hope_vs_empire.md)
