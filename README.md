@@ -16,4 +16,5 @@
 * [New Hope vs. Empire](new_hope_vs_empire.md)
 * [Why Rogue One is so high](why_rogue_one_is_so_high.md)
 * [Why The Last Jedi is so low](the_last_jedi.md)
+* [Why Attack of the Clones is the worst](clones.md)
 
