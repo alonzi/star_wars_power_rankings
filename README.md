@@ -9,8 +9,7 @@
 6. Solo: A Star Wars Story
 7. Star Wars: The Force Awakens
 8. Star Wars: Attack of the Clones
-9. Star Wars: The Last Jedi
-10. Star Wars: The Phantom Menace
+9. Star Wars: The Last Jedi / Star Wars: Rise of Skywalker
 
 ## Discussion
 * [New Hope vs. Empire](new_hope_vs_empire.md)
