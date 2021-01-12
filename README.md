@@ -29,5 +29,5 @@
 4. Revenge of the Sith
 5. Return of the Jedi
 
-Source: [The Star Wars Saga: Introducing Machete Order](http://www.nomachetejuggling.com/2011/11/11/the-star-wars-saga-suggested-viewing-order/) [Archive](archive.is/FXYBd)
+Source: [The Star Wars Saga: Introducing Machete Order](http://www.nomachetejuggling.com/2011/11/11/the-star-wars-saga-suggested-viewing-order/)  [(Archive)](archive.is/FXYBd)
 
