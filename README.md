@@ -5,7 +5,7 @@
 3. Rogue One: A Star Wars Story
 4. Star Wars: Revenge of the Sith (with H. Christensen on mute as Anakin Skywalker)
 4. Star Wars: Return of the Jedi
-5. Star Wars: Revenge of the Sith (as released in the theatre)
+5. Star Wars: Revenge of the Sith (as released in the theater)
 6. Solo: A Star Wars Story
 7. Star Wars: The Force Awakens
 8. Star Wars: Attack of the Clones
@@ -30,4 +30,3 @@
 5. Return of the Jedi
 
 Source: [The Star Wars Saga: Introducing Machete Order](http://www.nomachetejuggling.com/2011/11/11/the-star-wars-saga-suggested-viewing-order/)  [(Archive)](https://archive.is/FXYBd)
-
