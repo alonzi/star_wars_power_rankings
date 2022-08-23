@@ -31,3 +31,14 @@
 
 Source: [The Star Wars Saga: Introducing Machete Order](http://www.nomachetejuggling.com/2011/11/11/the-star-wars-saga-suggested-viewing-order/)  [(Archive)](https://archive.is/FXYBd)
 
+
+### Alphabetical Order
+1. Rogue One: A Star Wars Story
+2. Solo: A Star Wars Story
+3. Star Wars: A New Hope
+4. Star Wars: Attack of the Clones
+5. Star Wars: Return of the Jedi
+6. Star Wars: Revenge of the Sith
+7. Star Wars: The Empire Strikes Back
+8. Star Wars: The Force Awakens
+
