@@ -1,15 +1,15 @@
 # Definitive Star Wars Movie Power Rankings
 
-1. Star Wars: A New Hope
-2. Star Wars: The Empire Strikes Back
+1. Star Wars: The Empire Strikes Back
+2. Star Wars: A New Hope
 3. Rogue One: A Star Wars Story
 4. Star Wars: Revenge of the Sith (with H. Christensen on mute as Anakin Skywalker)
-4. Star Wars: Return of the Jedi
-5. Star Wars: Revenge of the Sith (as released in the theatre)
-6. Solo: A Star Wars Story
-7. Star Wars: The Force Awakens
-8. Star Wars: Attack of the Clones
-9. Star Wars: The Last Jedi / Star Wars: Rise of Skywalker
+5. Star Wars: Return of the Jedi
+6. Star Wars: Revenge of the Sith (as released in the theatre)
+7. Solo: A Star Wars Story
+8. Star Wars: The Force Awakens
+9. Star Wars: Attack of the Clones
+10. Star Wars: The Last Jedi / Star Wars: Rise of Skywalker
 
 
 ## Discussion
