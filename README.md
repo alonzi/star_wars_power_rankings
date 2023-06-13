@@ -1,3 +1,5 @@
+*Disclaimer- These are the views of Professor Alonzi at the University of Virginia.*
+
 # Definitive Star Wars Movie Power Rankings
 
 1. Star Wars: A New Hope
