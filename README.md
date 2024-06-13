@@ -68,6 +68,6 @@ Source: [The Star Wars Saga: Introducing Machete Order](http://www.nomachetejugg
 22. Star Wars: Andor (Series, 2022)
 23. Young Jedi Adventures (Animated Series, Spring 2023)
 24. Star Wars: Ahsoka (Series, 2023)
-25. Star Wars: Skeleton Crew (Series, 2023)
+25. Star Wars: Skeleton Crew (Series, 2023) 
 
 Source: [Star Wars Movies and Shows by Release Date](https://www.ign.com/articles/star-wars-movies-tv-shows-chronological-order)
