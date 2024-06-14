@@ -73,4 +73,5 @@ Source: [The Star Wars Saga: Introducing Machete Order](http://www.nomachetejugg
 27. Star Wars: Ahsoka (Series, 2023-Present)
 28. Star Wars: The Acolyte (Series, 2024-Present)
 
+
 Source: [Star Wars Movies and Shows by Release Date](https://www.ign.com/articles/star-wars-movies-tv-shows-chronological-order)/[Star Wars](https://en.wikipedia.org/wiki/Star_Wars)
