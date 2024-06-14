@@ -3,3 +3,5 @@ The ending was different from other Star Wars movie endings, and I found that in
 It made me like the movie more, and I saw it a second time. 
 
 Did all of your friends hate Solo?
+
+I thought the movie Solo was not good, dare I say it was SO-LOW on my list of star wars media. 
