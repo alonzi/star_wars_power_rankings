@@ -3,3 +3,4 @@ The ending was different from other Star Wars movie endings, and I found that in
 It made me like the movie more, and I saw it a second time. 
 
 Did all of your friends hate Solo?
+- I feel like Solo gets a bad rap. It isn't the best movie of all time, but it is definitely better than ep. I (except for the Darth Maul battle). - DJL
