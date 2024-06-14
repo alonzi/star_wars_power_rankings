@@ -4,11 +4,14 @@
 2. Star Wars: The Empire Strikes Back
 3. Star Wars: Return of the Jedi 
 4. Star Wars: Backstroke of the West
-5. Rogue One: A Star Wars Story
-6. Star Wars: The Last Jedi
-7. Star Wars: The Force Awakens
-8. Star Wars: Attack of the Clones
-9. Star Wars: Star Wars: Rise of Skywalker
+5. Star Wars: Revenge of the Sith (as released in the theatre)
+6. Star Wars: Revenge of the Sith (with H. Christensen on mute as Anakin Skywalker)
+7. Rogue One: A Star Wars Story
+8. Solo: A Star Wars Story
+9. Star Wars: The Last Jedi
+10. Star Wars: The Force Awakens
+11. Star Wars: Attack of the Clones
+12. Star Wars: Star Wars: Rise of Skywalker
 
 
 ## Discussion
