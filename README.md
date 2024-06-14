@@ -2,9 +2,9 @@
 
 1. Star Wars: A New Hope
 2. Star Wars: The Empire Strikes Back
-3. Star Wars: Return of the Jedi 
-4. Star Wars: Revenge of the Sith (with H. Christensen on mute as Anakin Skywalker)
-5. Rogue One: A Star Wars Story
+3. Rogue One: A Star Wars Story
+4. Star Wars: Return of the Jedi 
+5. Star Wars: Revenge of the Sith (with H. Christensen on mute as Anakin Skywalker)
 6. Star Wars: Revenge of the Sith (as released in the theatre)
 7. Solo: A Star Wars Story
 8. Star Wars: The Force Awakens
@@ -47,27 +47,31 @@ Source: [The Star Wars Saga: Introducing Machete Order](http://www.nomachetejugg
 1. Star Wars Episode IV: A New Hope (Movie - 1977)
 2. Star Wars Episode V: The Empire Strikes Back (Movie, 1980)
 3. Star Wars Episode VI: Return of the Jedi (Movie, 1983)
-4. Star Wars Episode I: The Phantom Menace (Movie, 1999)
-5. Star Wars Episode II: Attack of the Clones (Movie, 2002)
-6. Star Wars: Clone Wars (Animated Series, 2003-2005)
-7. Star Wars Episode III: Revenge of the Sith (Movie, 2005)
-8. Star Wars: The Clone Wars (Movie, 2008)
-9. Star Wars: The Clone Wars (Animated Series, 2008-2020)
-10. Star Wars Rebels (Animated Series, 2014-2018)
-11. Star Wars Episode VII: The Force Awakens (Movie, 2015)
-12. Rogue One: A Star Wars Story (Movie, 2016)
-13. Star Wars Episode VIII: The Last Jedi (Movie, 2017)
-14. Star Wars: Resistance (Animated Series, 2018-2019)
-15. Solo: A Star Wars Story (Movie, 2018)
-16. Star Wars Episode IX: The Rise of Skywalker (Movie, 2019)
-17. Star Wars: The Mandalorian (Series, 2019-Present)
-18. Star Wars: The Bad Batch (Animated Series, 2021-Present)
-19. Star Wars: Visions (Anime Series, 2021)
-20. The Book of Boba Fett (Series, 2021)
-21. Obi-Wan Kenobi (Series, 2022)
-22. Star Wars: Andor (Series, 2022)
-23. Young Jedi Adventures (Animated Series, Spring 2023)
-24. Star Wars: Ahsoka (Series, 2023)
-25. Star Wars: Skeleton Crew (Series, 2023)
+4. Star Wars: Droids (Animated Series, 1985-1986)
+5. Ewoks (Animated Series, 1985-1986)
+6. Star Wars Episode I: The Phantom Menace (Movie, 1999)
+7. Star Wars Episode II: Attack of the Clones (Movie, 2002)
+8. Star Wars: Clone Wars (Animated Series, 2003-2005)
+9. Star Wars Episode III: Revenge of the Sith (Movie, 2005)
+10. Star Wars: The Clone Wars (Movie, 2008)
+11. Star Wars: The Clone Wars (Animated Series, 2008-2020)
+12. Star Wars Rebels (Animated Series, 2014-2018)
+13. Star Wars Episode VII: The Force Awakens (Movie, 2015)
+14. Rogue One: A Star Wars Story (Movie, 2016)
+15. Star Wars Episode VIII: The Last Jedi (Movie, 2017)
+16. Star Wars: Resistance (Animated Series, 2018-2020)
+17. Solo: A Star Wars Story (Movie, 2018)
+18. Star Wars Episode IX: The Rise of Skywalker (Movie, 2019)
+19. Star Wars: The Mandalorian (Series, 2019-Present)
+20. Star Wars: The Bad Batch (Animated Series, 2021-2024)
+21. Star Wars: Visions (Anime Series, 2021-Present)
+22. The Book of Boba Fett (Series, 2021-2022)
+23. Obi-Wan Kenobi (Series, 2022)
+24. Star Wars: Andor (Series, 2022-Present)
+25. Star Wars: Tales (Series, 2022-Present)
+26. Young Jedi Adventures (Animated Series, 2023-Present)
+27. Star Wars: Ahsoka (Series, 2023-Present)
+28. Star Wars: The Acolyte (Series, 2024-Present)
 
-Source: [Star Wars Movies and Shows by Release Date](https://www.ign.com/articles/star-wars-movies-tv-shows-chronological-order)
+
+Source: [Star Wars Movies and Shows by Release Date](https://www.ign.com/articles/star-wars-movies-tv-shows-chronological-order)/[Star Wars](https://en.wikipedia.org/wiki/Star_Wars)
