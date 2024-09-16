@@ -1,3 +1,4 @@
+
 # Definitive Star Wars Movie Power Rankings
 
 1. Star Wars: The Empire Strikes Back
