@@ -1,4 +1,4 @@
-# A Defense of A Phantom Menace (and Jar Jar Binks)
+# A Defense of The Phantom Menace (and Jar Jar Binks)
 
 Star Wars: Episode I - The Phantom Menace is often put towards the bottom of most Star Wars movie rankings lists.  I find this rating unfair, as it ignores the intended audience of the film. What critics seem to forget is that The Phantom Menace was a movie made for **children**.
 
