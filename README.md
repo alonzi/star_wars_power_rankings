@@ -19,7 +19,7 @@
 * [Why The Last Jedi is so low](the_last_jedi.md)
 * [Why Attack of the Clones is the worst](clones.md)
 * [Everyone hated Solo](everyone_hated_solo.md)
-* [A Defense of the Phantom Menace](A Defense of The Phantom Menace.md)
+* [A Defense of the Phantom Menace](meance.md)
 
 ## Alternate Viewing Orders
 
