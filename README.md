@@ -19,6 +19,7 @@
 * [Why The Last Jedi is so low](the_last_jedi.md)
 * [Why Attack of the Clones is the worst](clones.md)
 * [Everyone hated Solo](everyone_hated_solo.md)
+* [In Defense of A Phatom Menace (and Jar Jar Binks)}]
 
 
 ## Alternate Viewing Orders
