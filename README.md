@@ -8,7 +8,7 @@
 7. Star Wars: Revenge of the Sith (as released in the theatre)
 8. Solo: A Star Wars Story
 9. Star Wars: The Force Awakens
-10. A Phantom Menace
+10. Star Wars: The Phantom Menace
 11. Star Wars: Attack of the Clones
 12. Star Wars: The Last Jedi / Star Wars: Rise of Skywalker
 
@@ -19,6 +19,7 @@
 * [Why The Last Jedi is so low](the_last_jedi.md)
 * [Why Attack of the Clones is the worst](clones.md)
 * [Everyone hated Solo](everyone_hated_solo.md)
+* [Defending The Phantom Menace](Defending The Phantom Menace.md)
 
 
 ## Alternate Viewing Orders
