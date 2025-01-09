@@ -3,23 +3,24 @@
 1. Star Wars: The Empire Strikes Back
 2. Star Wars: A New Hope
 3. Star Wars: Return of the Jedi 
+4. Rogue One: A Star Wars Story
 4. Star Wars: Revenge of the Sith (with H. Christensen on mute as Anakin Skywalker)
 5. Star Wars: Revenge of the Sith (as released in the theatre)
 6. Solo: A Star Wars Story
 7. Star Wars: The Force Awakens
-8. A Phantom Menace
+10. Star Wars: The Phantom Menace
 9. Rogue One: A Star Wars Story **I didn't care for Rogue One**
 10. Star Wars: Attack of the Clones
 11. Star Wars: The Last Jedi / Star Wars: Rise of Skywalker
 
 
 ## Discussion
+* [A Defense of the Phantom Menace](menace.md)
 * [New Hope vs. Empire](new_hope_vs_empire.md)
 * [Why Rogue One is so high](why_rogue_one_is_so_high.md)
 * [Why The Last Jedi is so low](the_last_jedi.md)
 * [Why Attack of the Clones is the worst](clones.md)
 * [Everyone hated Solo](everyone_hated_solo.md)
-
 
 ## Alternate Viewing Orders
 
