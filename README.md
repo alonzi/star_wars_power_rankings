@@ -21,7 +21,6 @@
 * [Everyone hated Solo](everyone_hated_solo.md)
 * [Defending The Phantom Menace](Defending The Phantom Menace.md)
 
-
 ## Alternate Viewing Orders
 
 ### Machete Order
