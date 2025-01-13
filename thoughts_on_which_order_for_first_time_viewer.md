@@ -1,1 +1,2 @@
 Personally, I haven't watched Star Wars, but a lot of my friends have. They really want me to watch it, so I'm wondering... should I? And which sequence should I follow? -J
+The correct way to watch these series is in order with which they were released (i.e. the way our lord and savior George Lucas wanted us to). So in that case 4-5-6-1-2-3, and then do whatever with the newest ones since Disney lost the plot after they were blinded by all the dollar signs. 
