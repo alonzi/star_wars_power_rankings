@@ -9,7 +9,7 @@
 6. Solo: A Star Wars Story
 7. Star Wars: The Force Awakens
 10. Star Wars: The Phantom Menace
-9. Rogue One: A Star Wars Story **I didn't care for Rogue One**
+9. Rogue One: A Star Wars Story
 10. Star Wars: Attack of the Clones
 11. Star Wars: The Last Jedi / Star Wars: Rise of Skywalker
 
